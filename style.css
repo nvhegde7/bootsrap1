@@ -1,0 +1,15 @@
+.navbar-brand{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+
+
+.back_img{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0px;
+    margin-top:74px;
+}
